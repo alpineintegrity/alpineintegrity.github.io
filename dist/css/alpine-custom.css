@@ -1,1 +1,5 @@
 /* Alpine Custom Style Sheet*/
+body{
+	background-color:black !important;
+	color:white;
+}
